@@ -55,4 +55,4 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for how to help out.
 
 ## License
 
-Pyre is licensed under the MIT license.
+Pyre is licensed under the MIT license. *:)*
